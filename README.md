@@ -1,6 +1,7 @@
 # Superpowers Game
 
 [![Build Status](https://travis-ci.org/superpowers/superpowers-game.svg?branch=master)](https://travis-ci.org/superpowers/superpowers-game)
+[![Help Contribute to Open Source](https://www.codetriage.com/superpowers/superpowers-game/badges/users.svg)](https://www.codetriage.com/superpowers/superpowers-game)
 
 Make 2D and 3D games in live collaboration with [Superpowers](http://superpowers-html5.com/) using [TypeScript](http://www.typescriptlang.org/). Powered by [Three.js](http://threejs.org/) under the hood!
 
